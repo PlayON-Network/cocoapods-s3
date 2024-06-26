@@ -1,4 +1,4 @@
-Copyright (c) 2024 David Arias Vázquez <dav.surf@gmail.com>
+Copyright (c) 2024 PLAYON Network <devs@playon.network>
 
 MIT License
 
